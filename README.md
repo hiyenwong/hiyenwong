@@ -4,12 +4,6 @@
 - 📷: @hiyenwong(ig)
 - [LeetCode](https://leetcode.cn/u/hiyenwong/)
 
-<!---
-hiyenwong/hiyenwong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![language_scop](https://wakatime.com/share/@53dbcd32-dca2-480e-8761-a29001014810/7888ae84-ad1d-4a52-bbf1-5e768e5e8958.png "language_scop")
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hiyenwong) 
 
