@@ -13,3 +13,4 @@
 - [OpenClaw Proxy Plugin](https://github.com/hiyenwong/openclaw-proxy-plugin)
 - [My HammerSpoon Config](https://github.com/hiyenwong/hammerSpoonConfig)
 - [Agentmon](https://github.com/hiyenwong/matop)
+- [sqlite-knowledge-graph](https://github.com/hiyenwong/sqlite-knowledge-graph)
