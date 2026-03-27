@@ -14,3 +14,7 @@
 - [My HammerSpoon Config](https://github.com/hiyenwong/hammerSpoonConfig)
 - [Agentmon](https://github.com/hiyenwong/matop)
 - [sqlite-knowledge-graph](https://github.com/hiyenwong/sqlite-knowledge-graph)
+- [Arxiv MCP](https://github.com/hiyenwong/arxiv_mcp)
+- [airflow-notion-provider](https://github.com/hiyenwong/airflow-notion-provider)
+- [apache-airflow-provider-twitterapi](https://github.com/hiyenwong/apache-airflow-provider-twitterapi)
+- [airflow-lark](https://github.com/hiyenwong/airflow-lark)
