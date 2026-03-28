@@ -5,7 +5,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hiyenwong&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hiyenwong&theme=ayu-mirage&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hiyenwong&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # My Github Project
 - [Sand Trader](https://github.com/hiyenwong/sand_trader)
