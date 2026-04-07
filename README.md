@@ -17,3 +17,4 @@
 - [airflow-notion-provider](https://github.com/hiyenwong/airflow-notion-provider)
 - [apache-airflow-provider-twitterapi](https://github.com/hiyenwong/apache-airflow-provider-twitterapi)
 - [airflow-lark](https://github.com/hiyenwong/airflow-lark)
+- [postgresql_knowledge_graph](https://github.com/hiyenwong/pg_knowledge_graph)
